@@ -21,8 +21,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/779034600415428608)](https://discord.com/users/779034600415428608)
 
-![](https://komarev.com/ghpvc/?username=arbawistudio&color=dc143c)
-<a href="https://www.youtube.com/channel/UCsnjO4NI0kEJAWmFF1eHfow">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCsnjO4NI0kEJAWmFF1eHfow&key=[YOUR API KEY]"/>
-</a>
    
